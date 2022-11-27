@@ -13,8 +13,8 @@ namespace ConsoleApp4
         public int Age;
         public Person(string name, int age)
         {
-            this.Name = name;
-            this.Age = age;
+            Name = name;
+            Age = age;
         }
         public Person()
         {

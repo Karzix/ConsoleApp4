@@ -20,6 +20,7 @@ namespace ConsoleApp4
             //Console.Write(m);
             a.DSSVDiemNhoHon5();
             a.DSTen();
+            Console.WriteLine("bla bla");
             Console.ReadLine();
         }
     }
